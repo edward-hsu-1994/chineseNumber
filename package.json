@@ -7,6 +7,11 @@
     "test": "tsc && node dist/test.js"
   },
   "keywords": ["數字轉中文"],
+  "homepage": "https://github.com/XuPeiYao/chineseNumber",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XuPeiYao/chineseNumber.git"
+  },
   "author": "XuPeiYao",
   "license": "MIT",
   "dependencies": {},
