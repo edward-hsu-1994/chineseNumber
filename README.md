@@ -1,5 +1,8 @@
 # chinesenumber
 
+[![npm version](https://badge.fury.io/js/chinesenumber.svg)](https://badge.fury.io/js/chinesenumber)
+[![Build Status](https://travis-ci.org/XuPeiYao/chinesenumber.svg?branch=master)](https://travis-ci.org/XuPeiYao/chinesenumber) [![Downloads](https://img.shields.io/npm/dm/chinesenumber.svg)](https://www.npmjs.com/package/chinesenumber)
+
 本套件提供數字轉中文大寫字串功能
 
 ## 快速上手

@@ -4,11 +4,15 @@
   "description": "數字轉換為中文大寫",
   "main": "./dist/index.js",
   "scripts": {
+    "tsc": "tsc",
     "test": "tsc && node dist/test.js",
     "build": "tsc"
   },
   "keywords": ["數字轉中文"],
   "author": "XuPeiYao",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "~2.4.2"
+  }
 }
