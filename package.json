@@ -1,0 +1,14 @@
+{
+  "name": "chinesenumber",
+  "version": "1.0.0",
+  "description": "數字轉換為中文大寫",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "tsc && node dist/test.js",
+    "build": "tsc"
+  },
+  "keywords": ["數字轉中文"],
+  "author": "XuPeiYao",
+  "license": "MIT",
+  "dependencies": {}
+}
