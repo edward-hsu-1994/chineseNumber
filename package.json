@@ -4,9 +4,7 @@
   "description": "數字轉換為中文大寫",
   "main": "./dist/index.js",
   "scripts": {
-    "tsc": "tsc",
-    "test": "tsc && node dist/test.js",
-    "build": "tsc"
+    "test": "tsc && node dist/test.js"
   },
   "keywords": ["數字轉中文"],
   "author": "XuPeiYao",
