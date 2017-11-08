@@ -8,7 +8,7 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "target": "es5",
-    "lib": []
+    "lib": [ "es2016" ]
   },
   "exclude": [
     "node_modules",
