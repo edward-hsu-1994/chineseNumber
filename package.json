@@ -1,6 +1,6 @@
 {
   "name": "chinesenumber",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "數字轉換為中文大寫",
   "main": "./dist/index.js",
   "scripts": {
